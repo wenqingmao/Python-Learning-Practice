@@ -1,2 +1,2 @@
 # Python-Learning-Practice
-An record of model competition as a Python beginner 
+An record of a 4-days modeling competition as a Python beginner 
