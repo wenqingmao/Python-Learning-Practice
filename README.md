@@ -1,2 +1,2 @@
 # Python-Learning-Practice
-A modeling competition when I first learned Python
+An record of model competition as a Python beginner 
